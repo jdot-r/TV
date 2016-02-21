@@ -1,0 +1,6 @@
+name: TV
+main: NetherManiacsKingdomTeam\TV
+version: "0.5"
+api: [1.0.0]
+load: POSTWORLD
+author: NetherManiacsKingdomTeam
